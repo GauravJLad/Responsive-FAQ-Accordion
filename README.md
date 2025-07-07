@@ -35,6 +35,8 @@ Built with semantic HTML, modern CSS styling, and JavaScript-powered toggle anim
 
 🔗 **View it on GitHub Pages:**
 
+[https://gauravjlad.github.io/Responsive-FAQ-Accordion](https://gauravjlad.github.io/Responsive-FAQ-Accordion)
+
 ---
 
 ## 📧 Connect with Me 📂
